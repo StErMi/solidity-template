@@ -1,4 +1,4 @@
-# solidity-template
+# 🛠️ solidity-template
 
 > **TLDR;** pre-configured hardhat project to run, debug, test and deploy your next solidity smart contract.
 >
